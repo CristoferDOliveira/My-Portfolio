@@ -48,7 +48,7 @@ function Projects() {
             </p>
             <p className='DevP'>
               <strong>Repository</strong><br />
-              <a href="https://github.com/CristoferDOliveira/ProjExtensao.Teste3" className='TeamDev' target='_blank' rel="noreferrer" title='GitHub'>
+              <a href="https://github.com/CristoferDOliveira/My-Portfolio/tree/main/Portfolio1/portfolio-project" className='TeamDev' target='_blank' rel="noreferrer" title='GitHub'>
               <FaGithub size={20} color="#ffffff" />Link</a><br />
               <strong>Development Team</strong><br />
               <a href="https://github.com/CristoferDOliveira" target='_blank' rel="noreferrer" title='GitHub' className='TeamDev'>
