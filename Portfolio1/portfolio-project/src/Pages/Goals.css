@@ -1,0 +1,38 @@
+.WebRoad, .GameDev, .Travel, .Life{
+    background-color: rgb(69, 69, 69);
+    padding-top: 10px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    margin: 10px;
+    list-style: none;
+    min-width: 300px;
+    min-height: 210px;
+    border-radius: 15px;
+    border-left: solid 4px #61b85e;
+}
+.WebRoad h3, .GameDev h3, .Travel h3, .Life h3{
+    justify-self: center;
+}
+.GoalsList{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
+    gap: 5px;
+    padding: 20px;
+    align-items: stretch;
+    background-color: rgb(31, 30, 30);
+}
+.LifeList h2, .CareerList h2{
+    justify-self: center;
+}
+.GMain{
+    border-bottom: solid 4px white;
+    padding: 15px;
+}
+.GRoad{
+    justify-self: center;
+    font-size: xx-large;
+}
+.Gpar{
+    justify-self: center;
+    font-size: x-large;
+}

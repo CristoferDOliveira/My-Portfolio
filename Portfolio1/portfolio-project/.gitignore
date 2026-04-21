@@ -1,0 +1,25 @@
+# Dependências (O que o npm/yarn instala)
+node_modules/
+.pnp
+.pnp.js
+
+# Produção (Arquivos gerados para o deploy)
+dist/
+dist-ssr/
+build/
+
+# Logs de erro
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Configurações de Editor e Sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Segurança (Variáveis de ambiente)
+.env
+.env.local
+.env.*.local
